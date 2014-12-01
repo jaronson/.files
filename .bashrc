@@ -15,6 +15,7 @@ export HISTSIZE=10000         # Store 10,000 history entries
 export HISTCONTROL=erasedups  # Don't store duplicates
 export PYTHONPATH=/usr/local/lib/python2.7/site-packages:$PYTHONPATH
 export WORKON_HOME=$HOME/Envs
+export XDG_CONFIG_HOME=$HOME/.config
 
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
