@@ -1,0 +1,9 @@
+*.sw*
+.DS_Store
+.screenrc
+.tmuxrc
+.sass-cache
+.sass-cache/*
+.vagrant
+tmp/
+ssh-prod
